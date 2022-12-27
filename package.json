@@ -1,0 +1,19 @@
+{
+  "name": "1inchzone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "node-fetch": "^3.3.0",
+    "web3": "^1.8.1",
+    "yesno": "^0.4.0"
+  }
+}
